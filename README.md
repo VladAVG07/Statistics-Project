@@ -123,14 +123,13 @@ chain optimization**, and **risk assessment**.
 ## 🏫 Credits
 
 **University of Bucharest** -- Faculty of Mathematics and Computer
-Science\
-**Course:** Probabilities and Statistics\
-**Team:**\
-- Florescu Teodor-Ștefănuț\
-- Apostol Vlad Gabriel\
-- Cojoaca Alexandru\
-- Stoica Vlad\
-**Coordinator:** Dr. Cojocea Manuela-Simona
+Science
+**Course:** Probabilities and Statistics
+**Team:**
+- Florescu Teodor-Ștefănuț
+- Apostol Vlad Gabriel
+- Cojoaca Alexandru
+- Stoica Vlad
 
 ------------------------------------------------------------------------
 
